@@ -19,7 +19,8 @@
 ;;
 ;;; Code:
 
-
+(define-minor-mode several-mode
+  "View on language syntax from different angle.")
 
 (provide 'several-mode)
 ;;; several-mode.el ends here
